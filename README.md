@@ -13,4 +13,4 @@ Understand how to structure a simple static site
 
 ![Download Image][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/Naijei1/Rochester-Web/blob/main/Rochester1.png "Rochester Image"
+![Rochester Image](https://github.com/Naijei1/Rochester-Web/blob/main/Rochester1.png?raw=true)
