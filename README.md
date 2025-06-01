@@ -1,5 +1,5 @@
-**Rochester Hometown Website
-**
+**Rochester Hometown Website**
+
 This is a simple personal project I created to learn and practice HTML and CSS. The site highlights my hometown—Rochester, NY—and showcases local features using basic web design techniques.
 
 _Purpose_
