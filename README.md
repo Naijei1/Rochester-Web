@@ -10,7 +10,7 @@ This project was built as a hands-on way to:
 - Practice CSS styling and layout
 - Understand how to structure a simple static site
 
-
+## Images
 ![Rochester Image](https://github.com/Naijei1/Rochester-Web/blob/main/Rochester1.png?raw=true)
 ![Rochester Image](https://github.com/Naijei1/Rochester-Web/blob/main/Rochester2.png?raw=true)
 
